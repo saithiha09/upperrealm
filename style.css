@@ -21,14 +21,17 @@
 
 .bigbox {
     background-color: white;
-    width: 175px;
     display: flex;
     flex-wrap: wrap;
+    width: 100px;
+    height: 150px;
     margin: 10px;
 }
 
 .photo {
     border-radius: 8px;
+    width: 100px;
+    height: 150px;
 }
 
 .title {
