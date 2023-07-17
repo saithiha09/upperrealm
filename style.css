@@ -4,6 +4,8 @@
     justify-content: space-around;
     background-color: black;
     color: lightgray;
+    flex-wrap: wrap;
+
 }
 
 .header1 {
@@ -21,6 +23,8 @@
     background-color: black;
     width: 175px;
     margin: 16px;
+    display: flex;
+    flex-wrap: wrap;
     
 }
 
