@@ -16,13 +16,12 @@
     display: flex;
     flex-wrap: wrap;
     background-color: white;
-    justify-content: center;
 }
 
 .bigbox {
     background-color: white;
-    width: 175px;
-    margin: 16px;
+    width: 160px;
+    margin: 13px;
     display: flex;
     flex-wrap: wrap;
     
