@@ -1,11 +1,22 @@
-.header {
-    font-size: 30px;
+.body {
+    background-color: rgb(101, 99, 99);
+}
+.mother {
+    max-width: 750px;
+    margin: 0 auto;
+    background-color: rgb(101, 99, 99);
+}
+
+.headercontainer {
+    font-size: 25px;
     display: flex;
-    background-color: white;
     color: black;
     flex-wrap: wrap;
     justify-content: center;
+}
 
+.header {
+  font-size: 100%;
 }
 
 .header1 {
@@ -14,9 +25,7 @@
 
 .container {
     display: flex;
-    flex-wrap: wrap;
-    background-color: white;
-    justify-content: center;
+    flex-wrap: wrap;    
 }
 
 .bigbox {
