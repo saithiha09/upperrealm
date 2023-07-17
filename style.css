@@ -23,21 +23,21 @@
     background-color: white;
     display: flex;
     flex-wrap: wrap;
-    width: 125px;
-    height: 175px;
+    width: 150px;
+    height: 200px;
     margin-left: 5px;
     margin-bottom: 30px;
 }
 
 .photo {
     border-radius: 8px;
-    width: 125px;
-    height: 175px;
+    width: 150px;
+    height: 200px;
 }
 
 .title {
     color: black;
-    font-size: 8px;
+    font-size: 15px;
 }
 
 .main {
