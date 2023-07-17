@@ -2,8 +2,8 @@
     font-size: 30px;
     display: flex;
     justify-content: space-around;
-    background-color: black;
-    color: lightgray;
+    background-color: white;
+    color: black;
     flex-wrap: wrap;
 
 }
@@ -15,12 +15,12 @@
 .container {
     display: flex;
     flex-wrap: wrap;
-    background-color: black;
+    background-color: white;
     justify-content: center;
 }
 
 .bigbox {
-    background-color: black;
+    background-color: white;
     width: 175px;
     margin: 16px;
     display: flex;
@@ -33,7 +33,7 @@
 }
 
 .title {
-    color: white;
+    color: black;
 }
 
 .main {
