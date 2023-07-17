@@ -25,7 +25,8 @@
     flex-wrap: wrap;
     width: 100px;
     height: 150px;
-    margin: 10px;
+    margin-left: 5px;
+    margin-bottom: 25px;
 }
 
 .photo {
