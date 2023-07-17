@@ -1,10 +1,10 @@
 .header {
     font-size: 30px;
     display: flex;
-    justify-content: space-around;
     background-color: white;
     color: black;
     flex-wrap: wrap;
+    justify-content: center;
 
 }
 
@@ -16,19 +16,19 @@
     display: flex;
     flex-wrap: wrap;
     background-color: white;
+    justify-content: center;
 }
 
 .bigbox {
     background-color: white;
-    width: 160px;
-    margin: 13px;
+    width: 175px;
     display: flex;
     flex-wrap: wrap;
-    
+    margin: 10px;
 }
 
 .photo {
-    border-radius: 10px;
+    border-radius: 8px;
 }
 
 .title {
