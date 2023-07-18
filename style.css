@@ -95,6 +95,7 @@
 .line {
     height: 2px;
     width: auto ;
+    background-color: black;
     margin-bottom: 20px;
     border-radius: 10px;
 }
