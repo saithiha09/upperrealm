@@ -55,3 +55,55 @@
     position: unset;
     text-decoration: none;
 }
+
+.mainpost {
+    display: flex;
+    max-width: 800px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.rating {
+    margin-top: 20px;
+}
+
+.mainpost {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image {
+    padding: 30px 40px;
+}
+
+.image2 {
+    border-radius: 5px;
+}
+
+.label {
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.line1 {
+    height: 2px;
+    width: auto ;
+    border-radius: 10px;
+    background-color: black;
+}
+
+.line {
+    height: 2px;
+    width: auto ;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.name {
+    width: 280px;
+    margin-top: 20px;
+}
+
+.NAME {
+    font-size: 20px;
+}
