@@ -4,7 +4,7 @@
 .mother {
     max-width: 750px;
     margin: 0 auto;
-    background-color: white;
+    background-color: red;
 }
 
 .headercontainer {
@@ -16,7 +16,7 @@
 }
 
 .header {
-  font-size: 100%;
+  font-size: 90%;
 }
 
 .header1 {
@@ -25,23 +25,23 @@
 
 .container {
     display: flex;
-    flex-wrap: wrap; 
+    flex-wrap: wrap;
+    background-color: green;
 }
 
 .bigbox {
     background-color: rgb(101, 99, 99);
     display: flex;
     flex-wrap: wrap;
-    margin-left: 7px;
     margin-bottom: 30px;
-    max-width: 142px;
-    max-height: 192px;
+    margin-top: 10px;
+    margin: 0 auto;
+    margin-right: auto;
 }
-
+ 
 .photo {
     border-radius: 8px;
-    max-width: 142px;
-    max-height: 192px;
+    max-width: 100px;
 }
 
 .title {
