@@ -101,10 +101,46 @@
 }
 
 .name {
-    width: 280px;
+    width: 250px;
     margin-top: 20px;
 }
 
 .NAME {
     font-size: 20px;
+}
+
+.mainchapterlist {
+    display: flex;
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: rgb(101, 99, 99);
+    padding:5px;
+}
+
+.main {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list {
+    justify-content: center;
+    font-size: 17px;
+    margin-right: 20px;
+}
+
+.chapter {
+    border: solid 1px;
+    margin-bottom: 15px;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+    
+    
+}
+
+.a {
+    text-decoration: none;
+    color: black;
 }
